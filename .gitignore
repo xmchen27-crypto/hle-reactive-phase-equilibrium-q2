@@ -1,0 +1,9 @@
+# Private source exports and local tooling
+*.html
+*.zip
+*.log
+.env
+.env.*
+__pycache__/
+.DS_Store
+Thumbs.db
